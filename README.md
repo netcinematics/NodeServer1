@@ -31,3 +31,16 @@ O MODULES
     - generative NFT factory
     - admin reference
     - file server
+
+
+### Minimum Node
+
+> https://nodejs.org/en/docs/guides/getting-started-guide
+
+> node minimum
+
+> go to: http://localhost:3000/
+
+> node minimumAPI
+
+> npm install express
