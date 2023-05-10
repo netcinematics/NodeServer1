@@ -4,6 +4,7 @@ NodeJS server for connecting to Alchemy, and conducting Web3 use cases.
 
 ## GOALS
 
+> TOKEN~AWARDZ~SYSTEMZ   (TASZ)
 
 a. DYNAMIC~AWARDZ       (dynamicMintz)
 
@@ -15,8 +16,9 @@ d. USER~INPUTZ (train ai)  (dynamicMintz)
 
 e. ai unlocks tokenz based on chat  (PoH, PoK, )
 
+f. 
 
-TODO:
+### TODO:
 
 O Minimum NODE.js 
       - GET 
